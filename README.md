@@ -1,6 +1,6 @@
 # php-random-ai-image-api
 # description
-this is a random image api powered by ai via php
+this is a random image api powered by pollinations.ai via php
 # deploy
 download index.php and upload it to your php server
 # how to use
