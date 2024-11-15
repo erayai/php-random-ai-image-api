@@ -11,8 +11,8 @@ insert
 enjoy it
 
 # chat
-GET:chat.php?prompt=your prompt
-POST:follow openai api (Not support stream)
+## GET:chat.php?prompt=your prompt
+## POST:follow openai api (Not support stream)
 ```
 curl "chat.php" \
     -H "Content-Type: application/json" \
